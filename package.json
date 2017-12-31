@@ -16,5 +16,9 @@
     "keywords": [
         "cryptonight",
         "cryptonote"
-    ]
+    ],
+    "scripts": {
+        "install": "node-gyp rebuild"
+    },
+    "gypfile": true
 }
