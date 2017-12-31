@@ -10,8 +10,9 @@
         "type": "git",
         "url": "https://github.com/giyyapan/node-cryptonote-util/blob/master/package.json"
     },
-    "dependencies" : {
-        "bindings" : "*"
+    "dependencies": {
+      "bindings": "*",
+      "nan": "^2.0.0"
     },
     "keywords": [
         "cryptonight",
